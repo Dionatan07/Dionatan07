@@ -20,10 +20,11 @@
 				<a href="https://www.linkedin.com/in/dionatandeandrade/" target="_blank">
 					<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 				</div>
+				<br>
 				##
 				### Languages and Tools:
 				<div>
-					<img align="left" alt="CSharp" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp"/>
+					<img align="left" alt="CSharp" width="40px" height="40px" src="https://icon-icons.com/pt/icone/java-original-a-marca-logo/146459" style="padding-right:10px;" title="CSharp"/>
 					<img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java"/>
 					<img align="left" alt="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python"/>
 					<img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
