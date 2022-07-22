@@ -13,7 +13,7 @@
 ##
 ### Connect with me:
 <div>
-	<a href="https://www.instagram.com/cabr_luan/" target="_blank">
+	<a href="https://www.instagram.com/dionatan07/" target="_blank">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 		<a href="https://www.twitch.tv/wogioo" target="_blank">
 			<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
