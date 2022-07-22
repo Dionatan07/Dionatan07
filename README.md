@@ -27,7 +27,8 @@
 				<div>
 					<img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java"/>
 					<img align="left" alt="Intellij" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" title="Intellij"/>
-					<img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
+	<img align="left" alt="PHP" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="padding-right:10px;" title="PHP"/>			
+	<img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
 					<img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
 					<img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
 					<img align="left" alt="Microsoft SQL Server" width="40px" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/>
