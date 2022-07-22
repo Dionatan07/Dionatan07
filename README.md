@@ -22,7 +22,8 @@
 				</div>
 				<br>
 				##########################
-				### Languages and Tools:
+				<br>
+				Languages and Tools:
 				<div>
 					<img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java"/>
 					<img align="left" alt="Intellij" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" title="Intellij"/>
