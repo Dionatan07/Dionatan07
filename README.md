@@ -21,7 +21,7 @@
 					<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 				</div>
 				<br>
-				##
+				##########################
 				### Languages and Tools:
 				<div>
 					<img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java"/>
@@ -37,5 +37,5 @@
 				</div>
 				<br/>
 				<br/>
-				##
+				##########################
 				
