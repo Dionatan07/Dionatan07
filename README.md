@@ -24,9 +24,7 @@
 				##
 				### Languages and Tools:
 				<div>
-
 					<img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java"/>
-				
 					<img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
 					<img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
 					<img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
@@ -35,7 +33,6 @@
 					<img align="left" alt="NetBeans" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" title="NetBeans"/>
 					<img align="left" alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
 					<img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
-					<img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
 				</div>
 				<br/>
 				##
