@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=dionatan07&color=grey&style=for-the-badge)
 ###
 ### Connect with me:
----------------------------
+-----------------------------
 <div>
 	<a href="https://www.instagram.com/dionatanandrade07/" target="_blank">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
