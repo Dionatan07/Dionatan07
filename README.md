@@ -2,7 +2,7 @@
 
 > "_Some people dream of success. And there are people who work every day to conquer it."  _Wayne Huizenga_
 
-### I have been working in the IT field for 12 years..
+### I have been working in the IT field for 13 years..
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Advanced); 
 
