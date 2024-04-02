@@ -2,7 +2,7 @@
 
 > "_Some people dream of success. And there are people who work every day to conquer it."  _Wayne Huizenga_
 
-### I have been working in the IT field for 13 years..
+### I have been working in the IT field for 14 years..
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Advanced); 
 
@@ -11,7 +11,7 @@
 🚀 I have solid experience as a systems analyst, working for almost 12 years in the area, being responsible for conducting several systems implementation projects both remotely and in loco with large clients in the national sector, as well as actively participating in projects to implement electronic documents at Adidas, Petrobras, Kopenhagen, Fiat, Simpress, Grupo Oxiteno, Servimed, Oncoprod, among others.<br>
 ![](https://komarev.com/ghpvc/?username=dionatan07&color=grey&style=for-the-badge)
 ###
---------------------------------------------------
+---------------------------------------------------
 ### Connect with me:
 
 <div>
