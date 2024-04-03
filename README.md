@@ -11,7 +11,7 @@
 🚀 I have solid experience as a systems analyst, working for almost 12 years in the area, being responsible for conducting several systems implementation projects both remotely and in loco with large clients in the national sector, as well as actively participating in projects to implement electronic documents at Adidas, Petrobras, Kopenhagen, Fiat, Simpress, Grupo Oxiteno, Servimed, Oncoprod, among others.<br>
 ![](https://komarev.com/ghpvc/?username=dionatan07&color=grey&style=for-the-badge)
 ###
----------------------------------------------------
+----------------------------------------------------
 ### Connect with me:
 
 <div>
