@@ -8,7 +8,7 @@
 
 ⭐ — Experiences: In this journey, the dynamics and desire to know more made me a professional with extensive knowledge in several areas of a company. As a more detailed and critical person, I was able to develop the most varied skills and became a point of reference for different ideas and dynamic reading of data and predictive information.
 
-🚀 I have solid experience as a systems analyst, working for almost 12 years in the area, being responsible for conducting several systems implementation projects both remotely and in loco with large clients in the national sector, as well as actively participating in projects to implement electronic documents at Adidas, Petrobras, Kopenhagen, Fiat, Simpress, Grupo Oxiteno, Servimed, Oncoprod, among others.<br>
+🚀 I have solid experience as a systems analyst, working for almost 14 years in the area, being responsible for conducting several systems implementation projects both remotely and in loco with large clients in the national sector, as well as actively participating in projects to implement electronic documents at Adidas, Petrobras, Kopenhagen, Fiat, Simpress, Grupo Oxiteno, Servimed, Oncoprod, among others.<br>
 ![](https://komarev.com/ghpvc/?username=dionatan07&color=grey&style=for-the-badge)
 ###
 -----------------------------------------------------------
